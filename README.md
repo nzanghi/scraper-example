@@ -37,7 +37,7 @@ wmic OS get OSArchitecture
    Use this for actually copying the code from here! You can clone this repository to a local directory on your computer with the following command:
 
    ```shell
-   git clone
+   git clone https://github.com/nzanghi/scraper-example.git
    ```
 
 If you do NOT see the output above when you type the commands in Powershell, you should take a look at your [PATH](https://learn.sparkfun.com/tutorials/configuring-the-path-system-variable/all) environment variable
@@ -47,7 +47,7 @@ If you do NOT see the output above when you type the commands in Powershell, you
 1. Clone this repo
 
 ```shell
-git clone repo
+git clone https://github.com/nzanghi/scraper-example.git
 ```
 
 2. Use `pnpm` to install dependencies
